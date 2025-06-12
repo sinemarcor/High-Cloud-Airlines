@@ -127,15 +127,4 @@ CONCLUSION :
             b. Improve leisure travel marketing (especially for weekends & holidays)
             c. Optimize underperforming routes and fleet usage
             d. Enhance business traveler experience on key corridors
-![image](https://github.com/user-attachments/assets/612d5dd0-c4af-4b34-a4f2-0da1a39f30d9)
-![image](https://github.com/user-attachments/assets/65e9eb40-5bc3-40bf-be1d-d896cc330a8f)
-![image](https://github.com/user-attachments/assets/56c5451c-1d2a-4ea6-9a2b-db2f421591cd)
-![image](https://github.com/user-attachments/assets/62d55350-e88a-4892-849c-da5a020318c0)
-![image](https://github.com/user-attachments/assets/5b8a2cb5-85f8-4bd5-80d1-0fb7e4559d1d)
-![image](https://github.com/user-attachments/assets/0e1a9168-18ea-4e09-954f-3e1bdf23d174)
-![image](https://github.com/user-attachments/assets/e3dce1df-ce12-4178-bda5-135a24d6e9bc)
-![image](https://github.com/user-attachments/assets/be88fb59-915c-471a-a7ac-12ab92cde33c)
-![image](https://github.com/user-attachments/assets/013c7550-3806-4f97-b7e4-53151fa00769)
-![image](https://github.com/user-attachments/assets/a91ba4a3-debd-4943-9148-f14b2ca86b19)
-![image](https://github.com/user-attachments/assets/e671c030-79ec-455a-a41e-76d44e057cb4)
-![image](https://github.com/user-attachments/assets/d91e1d39-7d41-4bc1-a8e8-07e444a60329)
+Dashboard : https://github.com/sinemarcor/High-Cloud-Airlines/blob/main/High%20Cloud%20Airlines%20Dashboard.png
