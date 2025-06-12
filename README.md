@@ -128,3 +128,4 @@ CONCLUSION :
             c. Optimize underperforming routes and fleet usage
             d. Enhance business traveler experience on key corridors
 Dashboard : https://github.com/sinemarcor/High-Cloud-Airlines/blob/main/High%20Cloud%20Airlines%20Dashboard.png
+Map : https://github.com/sinemarcor/High-Cloud-Airlines/blob/main/Map.png
